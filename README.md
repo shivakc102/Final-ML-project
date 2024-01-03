@@ -39,4 +39,12 @@ In this project, the provided data has been analyzed and preprocessed before con
 - Evaluation metrics play a crucial role in determining whether the model is considered good or bad.
 
 ### Roadmap for this project
--
+- Read and analyze the data. 
+- Drop duplicate entries and remove unwanted columns. 
+- Encode categorical data to numerical format.  
+- Identify and handle outliers. 
+- Split the data into training and testing sets. 
+- Apply feature scaling if necessary. 
+- Select a model and fit it to the data. 
+- Evaluate the model's performance by calculating errors and using evaluation metrics. 
+- Check for overfitting and underfitting using cross-validation."
