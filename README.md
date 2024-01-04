@@ -47,4 +47,3 @@ In this project, the provided data has been analyzed and preprocessed before con
 - Apply feature scaling if necessary. 
 - Select a model and fit it to the data. 
 - Evaluate the model's performance by calculating errors and using evaluation metrics. 
-- Check for overfitting and underfitting using cross-validation."
